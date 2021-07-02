@@ -2,6 +2,7 @@
 Proyecto de la pagina de e-commerce
 
 Descripcion de la oferta ofrecida:
+
 Servicio de alquileres de herramientas para el hogar y para empresas
 Herramientas de medio tiempo a tiempo completo 
 Herramientas industriales y de oficio 
